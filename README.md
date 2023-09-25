@@ -105,3 +105,9 @@ The robot's goal is to keep making tours within the maze. Strong deviations from
 
 ## Extra Credit
 Design a deliberative robot controller that explores the entire maze and reports its performance. This controller should incorporate sensing, localization, map generation, planning, and action.
+
+![Watch the Project Gif](https://github.com/mhbadiei/Robotics/blob/main/gif.gif)
+
+Explore our project in action by watching the full version video.
+
+[Watch the Project Video](https://github.com/mhbadiei/Robotics/blob/main/Project/video.mp4)
