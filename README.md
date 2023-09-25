@@ -103,5 +103,5 @@ The robot's goal is to keep making tours within the maze. Strong deviations from
 - Identify any issues encountered during navigation.
 - Propose improvements for enhancing the controller's navigation performance.
 
-## Extra Credit (2 points)
+## Extra Credit
 Design a deliberative robot controller that explores the entire maze and reports its performance. This controller should incorporate sensing, localization, map generation, planning, and action.
